@@ -1,0 +1,393 @@
+Game_Id,Date,Home_Team,Away_Team,Season,Home_Score,Away_Score
+1,2018-08-11,Arsenal,Man Utd,2018-2019,3,1
+2,2018-08-11,Juventus,R. Madrid,2018-2019,2,1
+3,2018-08-11,Chelsea,FC Bayern,2018-2019,0,2
+4,2018-08-11,Barcelona,Liverpool,2018-2019,2,2
+5,2018-08-18,Liverpool,Juventus,2018-2019,2,2
+6,2018-08-18,R. Madrid,Chelsea,2018-2019,1,3
+7,2018-08-18,FC Bayern,Arsenal,2018-2019,2,3
+8,2018-08-18,Man Utd,Barcelona,2018-2019,2,3
+9,2018-09-15,Arsenal,R. Madrid,2018-2019,0,1
+10,2018-09-15,Barcelona,FC Bayern,2018-2019,1,1
+11,2018-09-15,Man Utd,Liverpool,2018-2019,0,0
+12,2018-09-15,Chelsea,Juventus,2018-2019,0,1
+13,2018-10-06,R. Madrid,Barcelona,2018-2019,0,1
+14,2018-10-06,Juventus,Arsenal,2018-2019,2,2
+15,2018-10-06,Liverpool,Chelsea,2018-2019,1,0
+16,2018-10-06,FC Bayern,Man Utd,2018-2019,0,1
+17,2018-11-03,Chelsea,Barcelona,2018-2019,1,2
+18,2018-11-03,R. Madrid,FC Bayern,2018-2019,1,1
+19,2018-11-03,Juventus,Man Utd,2018-2019,3,1
+20,2018-11-03,Liverpool,Arsenal,2018-2019,2,1
+21,2018-11-10,Arsenal,Chelsea,2018-2019,0,2
+22,2018-11-10,Man Utd,R. Madrid,2018-2019,2,2
+23,2018-11-10,Barcelona,Juventus,2018-2019,3,0
+24,2018-11-10,FC Bayern,Liverpool,2018-2019,2,3
+25,2018-12-01,Man Utd,Chelsea,2018-2019,1,1
+26,2018-12-01,Liverpool,R. Madrid,2018-2019,0,2
+27,2018-12-01,FC Bayern,Juventus,2018-2019,1,2
+28,2018-12-01,Barcelona,Arsenal,2018-2019,3,2
+29,2018-12-08,Liverpool,Barcelona,2018-2019,1,0
+30,2018-12-08,R. Madrid,Juventus,2018-2019,2,0
+31,2018-12-08,FC Bayern,Chelsea,2018-2019,1,1
+32,2018-12-08,Man Utd,Arsenal,2018-2019,0,0
+33,2018-12-29,R. Madrid,Arsenal,2018-2019,1,0
+34,2018-12-29,Juventus,Chelsea,2018-2019,1,2
+35,2018-12-29,Liverpool,Man Utd,2018-2019,0,1
+36,2018-12-29,FC Bayern,Barcelona,2018-2019,1,1
+37,2019-01-05,Arsenal,FC Bayern,2018-2019,2,3
+38,2019-01-05,Barcelona,Man Utd,2018-2019,1,0
+39,2019-01-05,Chelsea,R. Madrid,2018-2019,2,1
+40,2019-01-05,Juventus,Liverpool,2018-2019,3,1
+41,2019-01-26,Arsenal,Juventus,2018-2019,4,0
+42,2019-01-26,Barcelona,R. Madrid,2018-2019,3,2
+43,2019-01-26,Man Utd,FC Bayern,2018-2019,2,2
+44,2019-01-26,Chelsea,Liverpool,2018-2019,1,2
+45,2019-02-23,Arsenal,Liverpool,2018-2019,2,2
+46,2019-02-23,Man Utd,Juventus,2018-2019,2,2
+47,2019-02-23,Barcelona,Chelsea,2018-2019,1,2
+48,2019-02-23,FC Bayern,R. Madrid,2018-2019,1,2
+49,2019-04-20,Chelsea,Arsenal,2018-2019,1,2
+50,2019-04-20,R. Madrid,Man Utd,2018-2019,0,4
+51,2019-04-20,Liverpool,FC Bayern,2018-2019,1,0
+52,2019-04-20,Juventus,Barcelona,2018-2019,2,2
+53,2019-05-04,R. Madrid,Liverpool,2018-2019,2,1
+54,2019-05-04,Arsenal,Barcelona,2018-2019,2,3
+55,2019-05-04,Chelsea,Man Utd,2018-2019,1,2
+56,2019-05-04,Juventus,FC Bayern,2018-2019,2,1
+57,2019-08-10,FC Bayern,Man Utd,2019-2020,1,1
+58,2019-08-10,Arsenal,Barcelona,2019-2020,2,2
+59,2019-08-10,Chelsea,R. Madrid,2019-2020,2,1
+60,2019-08-10,Juventus,Liverpool,2019-2020,1,1
+61,2019-08-17,Barcelona,FC Bayern,2019-2020,0,3
+62,2019-08-17,Man Utd,Juventus,2019-2020,2,2
+63,2019-08-17,R. Madrid,Arsenal,2019-2020,3,2
+64,2019-08-17,Liverpool,Chelsea,2019-2020,2,0
+65,2019-09-14,Chelsea,Juventus,2019-2020,0,2
+66,2019-09-14,FC Bayern,R. Madrid,2019-2020,2,2
+67,2019-09-14,Arsenal,Liverpool,2019-2020,1,1
+68,2019-09-14,Barcelona,Man Utd,2019-2020,1,1
+69,2019-10-05,Liverpool,FC Bayern,2019-2020,1,1
+70,2019-10-05,Juventus,Arsenal,2019-2020,0,3
+71,2019-10-05,R. Madrid,Barcelona,2019-2020,2,2
+72,2019-10-05,Man Utd,Chelsea,2019-2020,1,0
+73,2019-11-02,R. Madrid,Man Utd,2019-2020,3,0
+74,2019-11-02,Arsenal,Chelsea,2019-2020,2,1
+75,2019-11-02,FC Bayern,Juventus,2019-2020,0,1
+76,2019-11-02,Barcelona,Liverpool,2019-2020,2,1
+77,2019-11-09,Chelsea,FC Bayern,2019-2020,2,3
+78,2019-11-09,Man Utd,Arsenal,2019-2020,1,1
+79,2019-11-09,Liverpool,R. Madrid,2019-2020,2,1
+80,2019-11-09,Juventus,Barcelona,2019-2020,3,1
+81,2019-11-30,Man Utd,Liverpool,2019-2020,0,4
+82,2019-11-30,FC Bayern,Arsenal,2019-2020,2,1
+83,2019-11-30,R. Madrid,Juventus,2019-2020,2,1
+84,2019-11-30,Barcelona,Chelsea,2019-2020,1,3
+85,2019-12-07,Man Utd,FC Bayern,2019-2020,3,1
+86,2019-12-07,Barcelona,Arsenal,2019-2020,3,0
+87,2019-12-07,R. Madrid,Chelsea,2019-2020,2,2
+88,2019-12-07,Liverpool,Juventus,2019-2020,0,1
+89,2019-12-28,Arsenal,R. Madrid,2019-2020,1,2
+90,2019-12-28,Juventus,Man Utd,2019-2020,1,3
+91,2019-12-28,Chelsea,Liverpool,2019-2020,0,1
+92,2019-12-28,FC Bayern,Barcelona,2019-2020,0,0
+93,2020-01-04,R. Madrid,FC Bayern,2019-2020,2,1
+94,2020-01-04,Liverpool,Arsenal,2019-2020,1,1
+95,2020-01-04,Juventus,Chelsea,2019-2020,2,0
+96,2020-01-04,Man Utd,Barcelona,2019-2020,1,2
+97,2020-01-25,FC Bayern,Liverpool,2019-2020,1,1
+98,2020-01-25,Chelsea,Man Utd,2019-2020,0,2
+99,2020-01-25,Barcelona,R. Madrid,2019-2020,1,2
+100,2020-01-25,Arsenal,Juventus,2019-2020,0,0
+101,2020-02-22,Juventus,FC Bayern,2019-2020,1,2
+102,2020-02-22,Liverpool,Barcelona,2019-2020,0,2
+103,2020-02-22,Man Utd,R. Madrid,2019-2020,3,1
+104,2020-02-22,Chelsea,Arsenal,2019-2020,3,2
+105,2020-04-18,Chelsea,Barcelona,2019-2020,2,2
+106,2020-04-18,Arsenal,FC Bayern,2019-2020,2,0
+107,2020-04-18,Liverpool,Man Utd,2019-2020,3,0
+108,2020-04-18,Juventus,R. Madrid,2019-2020,1,2
+109,2020-05-02,Barcelona,Juventus,2019-2020,0,1
+110,2020-05-02,Arsenal,Man Utd,2019-2020,2,1
+111,2020-05-02,R. Madrid,Liverpool,2019-2020,2,1
+112,2020-05-02,FC Bayern,Chelsea,2019-2020,0,1
+113,2020-08-08,Arsenal,Chelsea,2020-2021,1,1
+114,2020-08-08,Liverpool,R. Madrid,2020-2021,2,1
+115,2020-08-08,FC Bayern,Barcelona,2020-2021,1,2
+116,2020-08-08,Juventus,Man Utd,2020-2021,1,1
+117,2020-08-15,Barcelona,Juventus,2020-2021,1,3
+118,2020-08-15,Chelsea,FC Bayern,2020-2021,4,1
+119,2020-08-15,R. Madrid,Arsenal,2020-2021,2,0
+120,2020-08-15,Man Utd,Liverpool,2020-2021,2,2
+121,2020-09-12,Liverpool,Barcelona,2020-2021,2,0
+122,2020-09-12,Man Utd,R. Madrid,2020-2021,0,1
+123,2020-09-12,Juventus,Chelsea,2020-2021,2,1
+124,2020-09-12,FC Bayern,Arsenal,2020-2021,3,1
+125,2020-10-03,Barcelona,Man Utd,2020-2021,1,0
+126,2020-10-03,Arsenal,Juventus,2020-2021,1,1
+127,2020-10-03,R. Madrid,FC Bayern,2020-2021,2,0
+128,2020-10-03,Chelsea,Liverpool,2020-2021,1,1
+129,2020-10-31,Juventus,FC Bayern,2020-2021,1,0
+130,2020-10-31,Man Utd,Chelsea,2020-2021,3,0
+131,2020-10-31,Barcelona,R. Madrid,2020-2021,2,1
+132,2020-10-31,Liverpool,Arsenal,2020-2021,1,3
+133,2020-11-07,R. Madrid,Juventus,2020-2021,2,1
+134,2020-11-07,Arsenal,Man Utd,2020-2021,2,2
+135,2020-11-07,Chelsea,Barcelona,2020-2021,3,1
+136,2020-11-07,FC Bayern,Liverpool,2020-2021,1,0
+137,2020-11-28,Barcelona,Arsenal,2020-2021,2,0
+138,2020-11-28,R. Madrid,Chelsea,2020-2021,3,1
+139,2020-11-28,Man Utd,FC Bayern,2020-2021,3,0
+140,2020-11-28,Liverpool,Juventus,2020-2021,1,1
+141,2020-12-05,Man Utd,Juventus,2020-2021,3,0
+142,2020-12-05,Chelsea,Arsenal,2020-2021,1,2
+143,2020-12-05,Barcelona,FC Bayern,2020-2021,2,2
+144,2020-12-05,R. Madrid,Liverpool,2020-2021,1,1
+145,2020-12-26,FC Bayern,Chelsea,2020-2021,0,2
+146,2020-12-26,Liverpool,Man Utd,2020-2021,3,0
+147,2020-12-26,Juventus,Barcelona,2020-2021,0,0
+148,2020-12-26,Arsenal,R. Madrid,2020-2021,3,2
+149,2021-01-02,Barcelona,Liverpool,2020-2021,2,0
+150,2021-01-02,Chelsea,Juventus,2020-2021,1,1
+151,2021-01-02,R. Madrid,Man Utd,2020-2021,2,2
+152,2021-01-02,Arsenal,FC Bayern,2020-2021,1,1
+153,2021-01-23,Juventus,Arsenal,2020-2021,3,0
+154,2021-01-23,FC Bayern,R. Madrid,2020-2021,1,2
+155,2021-01-23,Man Utd,Barcelona,2020-2021,3,1
+156,2021-01-23,Liverpool,Chelsea,2020-2021,1,1
+157,2021-02-20,Juventus,R. Madrid,2020-2021,2,1
+158,2021-02-20,Man Utd,Arsenal,2020-2021,0,3
+159,2021-02-20,Barcelona,Chelsea,2020-2021,3,0
+160,2021-02-20,Liverpool,FC Bayern,2020-2021,2,1
+161,2021-04-17,FC Bayern,Juventus,2020-2021,2,2
+162,2021-04-17,Arsenal,Liverpool,2020-2021,1,1
+163,2021-04-17,R. Madrid,Barcelona,2020-2021,1,2
+164,2021-04-17,Chelsea,Man Utd,2020-2021,1,1
+165,2021-05-01,Arsenal,Barcelona,2020-2021,1,1
+166,2021-05-01,Chelsea,R. Madrid,2020-2021,0,2
+167,2021-05-01,Juventus,Liverpool,2020-2021,0,1
+168,2021-05-01,FC Bayern,Man Utd,2020-2021,2,3
+169,2021-08-07,Arsenal,Man Utd,2021-2022,1,0
+170,2021-08-07,Barcelona,Chelsea,2021-2022,2,3
+171,2021-08-07,FC Bayern,Liverpool,2021-2022,2,1
+172,2021-08-07,R. Madrid,Juventus,2021-2022,3,1
+173,2021-08-14,Man Utd,FC Bayern,2021-2022,2,2
+174,2021-08-14,Chelsea,R. Madrid,2021-2022,1,1
+175,2021-08-14,Liverpool,Barcelona,2021-2022,2,1
+176,2021-08-14,Juventus,Arsenal,2021-2022,2,2
+177,2021-09-11,Man Utd,Liverpool,2021-2022,2,1
+178,2021-09-11,FC Bayern,Juventus,2021-2022,3,0
+179,2021-09-11,Arsenal,Chelsea,2021-2022,1,2
+180,2021-09-11,R. Madrid,Barcelona,2021-2022,2,2
+181,2021-10-02,Juventus,Liverpool,2021-2022,1,3
+182,2021-10-02,Arsenal,R. Madrid,2021-2022,0,3
+183,2021-10-02,Man Utd,Chelsea,2021-2022,0,1
+184,2021-10-02,FC Bayern,Barcelona,2021-2022,2,3
+185,2021-10-30,Juventus,Man Utd,2021-2022,0,2
+186,2021-10-30,Liverpool,R. Madrid,2021-2022,1,1
+187,2021-10-30,Barcelona,Arsenal,2021-2022,0,1
+188,2021-10-30,Chelsea,FC Bayern,2021-2022,0,1
+189,2021-11-06,Barcelona,Man Utd,2021-2022,4,1
+190,2021-11-06,Liverpool,Arsenal,2021-2022,2,1
+191,2021-11-06,Chelsea,Juventus,2021-2022,3,1
+192,2021-11-06,R. Madrid,FC Bayern,2021-2022,3,2
+193,2021-11-27,Man Utd,R. Madrid,2021-2022,1,2
+194,2021-11-27,FC Bayern,Arsenal,2021-2022,1,0
+195,2021-11-27,Liverpool,Chelsea,2021-2022,1,1
+196,2021-11-27,Juventus,Barcelona,2021-2022,1,2
+197,2021-12-04,Chelsea,Barcelona,2021-2022,1,3
+198,2021-12-04,Man Utd,Arsenal,2021-2022,3,1
+199,2021-12-04,Liverpool,FC Bayern,2021-2022,1,1
+200,2021-12-04,Juventus,R. Madrid,2021-2022,3,0
+201,2022-01-01,Chelsea,Arsenal,2021-2022,3,0
+202,2022-01-01,Juventus,FC Bayern,2021-2022,1,2
+203,2022-01-01,Barcelona,R. Madrid,2021-2022,0,5
+204,2022-01-01,Liverpool,Man Utd,2021-2022,1,2
+205,2022-01-22,Arsenal,Juventus,2021-2022,1,1
+206,2022-01-22,R. Madrid,Chelsea,2021-2022,2,0
+207,2022-01-22,Barcelona,Liverpool,2021-2022,0,3
+208,2022-01-22,FC Bayern,Man Utd,2021-2022,2,2
+209,2022-01-29,Man Utd,Juventus,2021-2022,1,1
+210,2022-01-29,R. Madrid,Liverpool,2021-2022,3,1
+211,2022-01-29,FC Bayern,Chelsea,2021-2022,2,1
+212,2022-01-29,Arsenal,Barcelona,2021-2022,1,1
+213,2022-02-19,Juventus,Chelsea,2021-2022,2,2
+214,2022-02-19,FC Bayern,R. Madrid,2021-2022,3,0
+215,2022-02-19,Man Utd,Barcelona,2021-2022,2,2
+216,2022-02-19,Arsenal,Liverpool,2021-2022,1,1
+217,2022-04-16,Liverpool,Juventus,2021-2022,1,0
+218,2022-04-16,R. Madrid,Arsenal,2021-2022,0,2
+219,2022-04-16,Barcelona,FC Bayern,2021-2022,1,0
+220,2022-04-16,Chelsea,Man Utd,2021-2022,0,1
+221,2022-04-30,Arsenal,FC Bayern,2021-2022,2,3
+222,2022-04-30,Chelsea,Liverpool,2021-2022,2,0
+223,2022-04-30,Barcelona,Juventus,2021-2022,1,3
+224,2022-04-30,R. Madrid,Man Utd,2021-2022,2,0
+225,2023-08-12,Juventus,R. Madrid,2023-2024,2,4
+226,2023-08-12,Liverpool,Arsenal,2023-2024,3,0
+227,2023-08-12,FC Bayern,Chelsea,2023-2024,1,2
+228,2023-08-12,Man Utd,Barcelona,2023-2024,4,1
+229,2023-08-19,Arsenal,Juventus,2023-2024,3,2
+230,2023-08-19,Chelsea,Liverpool,2023-2024,1,0
+231,2023-08-19,R. Madrid,Man Utd,2023-2024,1,3
+232,2023-08-19,Barcelona,FC Bayern,2023-2024,1,1
+233,2023-09-16,Man Utd,Arsenal,2023-2024,0,3
+234,2023-09-16,Barcelona,Chelsea,2023-2024,0,0
+235,2023-09-16,Juventus,Liverpool,2023-2024,1,3
+236,2023-09-16,FC Bayern,R. Madrid,2023-2024,3,0
+237,2023-10-07,R. Madrid,Chelsea,2023-2024,0,2
+238,2023-10-07,Barcelona,Arsenal,2023-2024,2,0
+239,2023-10-07,Man Utd,Juventus,2023-2024,2,1
+240,2023-10-07,FC Bayern,Liverpool,2023-2024,1,1
+241,2023-11-04,Liverpool,Man Utd,2023-2024,1,2
+242,2023-11-04,Arsenal,FC Bayern,2023-2024,0,2
+243,2023-11-04,Chelsea,Juventus,2023-2024,3,0
+244,2023-11-04,R. Madrid,Barcelona,2023-2024,1,1
+245,2023-11-11,Liverpool,Barcelona,2023-2024,1,0
+246,2023-11-11,Chelsea,Man Utd,2023-2024,3,0
+247,2023-11-11,Juventus,FC Bayern,2023-2024,2,0
+248,2023-11-11,Arsenal,R. Madrid,2023-2024,3,0
+249,2023-12-02,R. Madrid,Liverpool,2023-2024,1,1
+250,2023-12-02,FC Bayern,Man Utd,2023-2024,0,0
+251,2023-12-02,Barcelona,Juventus,2023-2024,0,1
+252,2023-12-02,Chelsea,Arsenal,2023-2024,0,1
+253,2023-12-09,R. Madrid,Juventus,2023-2024,2,4
+254,2023-12-09,Arsenal,Liverpool,2023-2024,2,1
+255,2023-12-09,Barcelona,Man Utd,2023-2024,0,0
+256,2023-12-09,Chelsea,FC Bayern,2023-2024,2,1
+257,2023-12-30,FC Bayern,Barcelona,2023-2024,0,2
+258,2023-12-30,Liverpool,Chelsea,2023-2024,2,3
+259,2023-12-30,Man Utd,R. Madrid,2023-2024,0,2
+260,2023-12-30,Juventus,Arsenal,2023-2024,2,1
+261,2024-01-06,Arsenal,Man Utd,2023-2024,1,1
+262,2024-01-06,R. Madrid,FC Bayern,2023-2024,1,1
+263,2024-01-06,Chelsea,Barcelona,2023-2024,1,2
+264,2024-01-06,Liverpool,Juventus,2023-2024,1,3
+265,2024-01-27,Juventus,Chelsea,2023-2024,2,2
+266,2024-01-27,Barcelona,R. Madrid,2023-2024,3,2
+267,2024-01-27,Man Utd,Liverpool,2023-2024,1,0
+268,2024-01-27,FC Bayern,Arsenal,2023-2024,2,1
+269,2024-02-24,Barcelona,Liverpool,2023-2024,1,0
+270,2024-02-24,R. Madrid,Arsenal,2023-2024,2,1
+271,2024-02-24,Man Utd,Chelsea,2023-2024,1,3
+272,2024-02-24,FC Bayern,Juventus,2023-2024,1,2
+273,2024-04-20,Juventus,Man Utd,2023-2024,2,1
+274,2024-04-20,Chelsea,R. Madrid,2023-2024,3,0
+275,2024-04-20,Liverpool,FC Bayern,2023-2024,0,2
+276,2024-04-20,Arsenal,Barcelona,2023-2024,1,1
+277,2024-05-04,Liverpool,R. Madrid,2023-2024,4,0
+278,2024-05-04,Juventus,Barcelona,2023-2024,2,0
+279,2024-05-04,Man Utd,FC Bayern,2023-2024,1,1
+280,2024-05-04,Arsenal,Chelsea,2023-2024,3,0
+281,2024-08-10,Barcelona,Man Utd,2024-2025,0,0
+282,2024-08-10,Arsenal,Juventus,2024-2025,3,1
+283,2024-08-10,Chelsea,FC Bayern,2024-2025,2,1
+284,2024-08-10,R. Madrid,Liverpool,2024-2025,1,1
+285,2024-08-17,Juventus,R. Madrid,2024-2025,2,0
+286,2024-08-17,Liverpool,Chelsea,2024-2025,3,1
+287,2024-08-17,FC Bayern,Barcelona,2024-2025,1,1
+288,2024-08-17,Man Utd,Arsenal,2024-2025,4,0
+289,2024-09-14,R. Madrid,Man Utd,2024-2025,2,1
+290,2024-09-14,Arsenal,FC Bayern,2024-2025,3,0
+291,2024-09-14,Barcelona,Chelsea,2024-2025,2,1
+292,2024-09-14,Juventus,Liverpool,2024-2025,2,3
+293,2024-10-05,FC Bayern,R. Madrid,2024-2025,2,1
+294,2024-10-05,Man Utd,Juventus,2024-2025,2,0
+295,2024-10-05,Chelsea,Arsenal,2024-2025,3,0
+296,2024-10-05,Liverpool,Barcelona,2024-2025,2,2
+297,2024-11-02,R. Madrid,Chelsea,2024-2025,3,2
+298,2024-11-02,Arsenal,Barcelona,2024-2025,1,1
+299,2024-11-02,Juventus,FC Bayern,2024-2025,1,2
+300,2024-11-02,Man Utd,Liverpool,2024-2025,0,1
+301,2024-11-09,FC Bayern,Man Utd,2024-2025,0,3
+302,2024-11-09,Barcelona,R. Madrid,2024-2025,1,3
+303,2024-11-09,Chelsea,Juventus,2024-2025,3,0
+304,2024-11-09,Liverpool,Arsenal,2024-2025,2,0
+305,2024-11-30,Juventus,Barcelona,2024-2025,2,2
+306,2024-11-30,R. Madrid,Arsenal,2024-2025,3,2
+307,2024-11-30,Man Utd,Chelsea,2024-2025,1,2
+308,2024-11-30,Liverpool,FC Bayern,2024-2025,1,1
+309,2024-12-07,Chelsea,Liverpool,2024-2025,1,1
+310,2024-12-07,Arsenal,Man Utd,2024-2025,2,1
+311,2024-12-07,R. Madrid,Juventus,2024-2025,2,1
+312,2024-12-07,Barcelona,FC Bayern,2024-2025,1,2
+313,2024-12-28,Juventus,Arsenal,2024-2025,1,0
+314,2024-12-28,Man Utd,Barcelona,2024-2025,4,2
+315,2024-12-28,FC Bayern,Chelsea,2024-2025,0,3
+316,2024-12-28,Liverpool,R. Madrid,2024-2025,4,0
+317,2025-01-04,FC Bayern,Arsenal,2024-2025,3,1
+318,2025-01-04,Chelsea,Barcelona,2024-2025,1,1
+319,2025-01-04,Man Utd,R. Madrid,2024-2025,1,1
+320,2025-01-04,Liverpool,Juventus,2024-2025,1,1
+321,2025-01-25,Juventus,Man Utd,2024-2025,1,2
+322,2025-01-25,R. Madrid,FC Bayern,2024-2025,1,2
+323,2025-01-25,Arsenal,Chelsea,2024-2025,1,2
+324,2025-01-25,Barcelona,Liverpool,2024-2025,1,4
+325,2025-02-22,Barcelona,Arsenal,2024-2025,1,2
+326,2025-02-22,FC Bayern,Juventus,2024-2025,1,2
+327,2025-02-22,Chelsea,R. Madrid,2024-2025,3,1
+328,2025-02-22,Liverpool,Man Utd,2024-2025,0,0
+329,2025-04-19,Man Utd,FC Bayern,2024-2025,3,0
+330,2025-04-19,R. Madrid,Barcelona,2024-2025,1,1
+331,2025-04-19,Arsenal,Liverpool,2024-2025,3,2
+332,2025-04-19,Juventus,Chelsea,2024-2025,1,1
+333,2025-05-03,Barcelona,Juventus,2024-2025,0,2
+334,2025-05-03,Chelsea,Man Utd,2024-2025,2,1
+335,2025-05-03,FC Bayern,Liverpool,2024-2025,0,2
+336,2025-05-03,Arsenal,R. Madrid,2024-2025,2,2
+337,2025-08-09,Barcelona,Man Utd,2025-2026,1,1
+338,2025-08-09,Juventus,Chelsea,2025-2026,2,0
+339,2025-08-09,FC Bayern,Arsenal,2025-2026,0,1
+340,2025-08-09,Liverpool,R. Madrid,2025-2026,0,1
+341,2025-08-16,Arsenal,Barcelona,2025-2026,1,2
+342,2025-08-16,Chelsea,Liverpool,2025-2026,1,2
+343,2025-08-16,Man Utd,Juventus,2025-2026,2,1
+344,2025-08-16,R. Madrid,FC Bayern,2025-2026,2,1
+345,2025-09-13,FC Bayern,Chelsea,2025-2026,2,1
+346,2025-09-13,Liverpool,Juventus,2025-2026,0,1
+347,2025-09-13,Arsenal,Man Utd,2025-2026,0,1
+348,2025-09-13,Barcelona,R. Madrid,2025-2026,1,1
+349,2025-10-04,Chelsea,Barcelona,2025-2026,3,0
+350,2025-10-04,Juventus,FC Bayern,2025-2026,2,3
+351,2025-10-04,Man Utd,Liverpool,2025-2026,2,3
+352,2025-10-04,R. Madrid,Arsenal,2025-2026,0,2
+353,2025-11-01,FC Bayern,Liverpool,2025-2026,0,2
+354,2025-11-01,Arsenal,Chelsea,2025-2026,1,2
+355,2025-11-01,R. Madrid,Man Utd,2025-2026,1,1
+356,2025-11-01,Barcelona,Juventus,2025-2026,1,2
+357,2025-11-08,Juventus,Arsenal,2025-2026,1,1
+358,2025-11-08,Chelsea,R. Madrid,2025-2026,1,2
+359,2025-11-08,Liverpool,Barcelona,2025-2026,3,0
+360,2025-11-08,Man Utd,FC Bayern,2025-2026,2,2
+361,2025-11-29,Man Utd,Chelsea,2025-2026,2,1
+362,2025-11-29,R. Madrid,Juventus,2025-2026,2,1
+363,2025-11-29,Barcelona,FC Bayern,2025-2026,1,1
+364,2025-11-29,Arsenal,Liverpool,2025-2026,1,2
+365,2025-12-06,Barcelona,Arsenal,2025-2026,1,1
+366,2025-12-06,Liverpool,Chelsea,2025-2026,1,2
+367,2025-12-06,Juventus,Man Utd,2025-2026,2,0
+368,2025-12-06,FC Bayern,R. Madrid,2025-2026,4,1
+369,2025-12-27,Man Utd,Barcelona,2025-2026,2,1
+370,2025-12-27,R. Madrid,Liverpool,2025-2026,1,2
+371,2025-12-27,Chelsea,Juventus,2025-2026,2,0
+372,2025-12-27,Arsenal,FC Bayern,2025-2026,2,2
+373,2026-01-03,R. Madrid,Barcelona,2025-2026,0,1
+374,2026-01-03,Chelsea,FC Bayern,2025-2026,3,0
+375,2026-01-03,Juventus,Liverpool,2025-2026,2,2
+376,2026-01-03,Man Utd,Arsenal,2025-2026,1,0
+377,2026-01-24,Arsenal,R. Madrid,2025-2026,2,2
+378,2026-01-24,Barcelona,Chelsea,2025-2026,3,2
+379,2026-01-24,Liverpool,Man Utd,2025-2026,4,1
+380,2026-01-24,FC Bayern,Juventus,2025-2026,2,0
+381,2026-02-21,R. Madrid,Chelsea,2025-2026,0,0
+382,2026-02-21,FC Bayern,Man Utd,2025-2026,3,1
+383,2026-02-21,Barcelona,Liverpool,2025-2026,0,1
+384,2026-02-21,Arsenal,Juventus,2025-2026,3,0
+385,2026-04-18,Liverpool,FC Bayern,2025-2026,3,1
+386,2026-04-18,Juventus,Barcelona,2025-2026,2,1
+387,2026-04-18,Chelsea,Arsenal,2025-2026,3,0
+388,2026-04-18,Man Utd,R. Madrid,2025-2026,3,1
+389,2026-05-02,Liverpool,Arsenal,2025-2026,2,1
+390,2026-05-02,Juventus,R. Madrid,2025-2026,1,1
+391,2026-05-02,FC Bayern,Barcelona,2025-2026,2,2
+392,2026-05-02,Chelsea,Man Utd,2025-2026,1,0

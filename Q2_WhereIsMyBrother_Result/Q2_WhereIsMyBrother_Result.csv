@@ -1,0 +1,57 @@
+Game_Id,Date,Home_Team,Away_Team,Season,Home_Score,Away_Score
+1001,06-08-22,Arsenal,Chelsea,2022-2023,1,2
+1002,06-08-22,Liverpool,Juventus,2022-2023,1,1
+1003,06-08-22,FC Bayern,R. Madrid,2022-2023,1,2
+1004,06-08-22,Barcelona,Man Utd,2022-2023,1,1
+1005,13-08-22,Juventus,Arsenal,2022-2023,3,0
+1006,13-08-22,Man Utd,Liverpool,2022-2023,1,1
+1007,13-08-22,R. Madrid,Barcelona,2022-2023,3,0
+1008,13-08-22,Chelsea,FC Bayern,2022-2023,2,0
+1009,10-09-22,Liverpool,Barcelona,2022-2023,2,2
+1010,10-09-22,Arsenal,Man Utd,2022-2023,2,0
+1011,10-09-22,FC Bayern,Juventus,2022-2023,1,0
+1012,10-09-22,Chelsea,R. Madrid,2022-2023,3,0
+1013,01-10-22,Juventus,R. Madrid,2022-2023,0,1
+1014,01-10-22,Arsenal,Liverpool,2022-2023,1,0
+1015,01-10-22,Chelsea,Man Utd,2022-2023,0,1
+1016,01-10-22,FC Bayern,Barcelona,2022-2023,2,0
+1017,08-10-22,Barcelona,Arsenal,2022-2023,1,2
+1018,08-10-22,Juventus,Chelsea,2022-2023,3,0
+1019,08-10-22,Man Utd,FC Bayern,2022-2023,0,1
+1020,08-10-22,R. Madrid,Liverpool,2022-2023,1,2
+1021,29-10-22,Man Utd,Juventus,2022-2023,1,2
+1022,29-10-22,Liverpool,FC Bayern,2022-2023,3,0
+1023,29-10-22,Barcelona,Chelsea,2022-2023,2,0
+1024,29-10-22,R. Madrid,Arsenal,2022-2023,3,0
+1025,05-11-22,Juventus,Barcelona,2022-2023,1,1
+1026,05-11-22,FC Bayern,Arsenal,2022-2023,0,2
+1027,05-11-22,Chelsea,Liverpool,2022-2023,2,2
+1028,05-11-22,R. Madrid,Man Utd,2022-2023,1,2
+1029,31-12-22,Man Utd,Barcelona,2022-2023,1,2
+1030,31-12-22,Juventus,Liverpool,2022-2023,0,2
+1031,31-12-22,Chelsea,Arsenal,2022-2023,1,2
+1032,31-12-22,R. Madrid,FC Bayern,2022-2023,1,0
+1033,21-01-23,R. Madrid,Chelsea,2022-2023,1,0
+1034,21-01-23,Juventus,FC Bayern,2022-2023,1,2
+1035,21-01-23,Man Utd,Arsenal,2022-2023,0,2
+1036,21-01-23,Barcelona,Liverpool,2022-2023,3,0
+1037,28-01-23,FC Bayern,Chelsea,2022-2023,1,1
+1038,28-01-23,Liverpool,Man Utd,2022-2023,1,2
+1039,28-01-23,Arsenal,Juventus,2022-2023,1,1
+1040,28-01-23,Barcelona,R. Madrid,2022-2023,1,3
+1041,18-02-23,Chelsea,Juventus,2022-2023,2,1
+1042,18-02-23,Liverpool,R. Madrid,2022-2023,1,1
+1043,18-02-23,Arsenal,Barcelona,2022-2023,2,3
+1044,18-02-23,FC Bayern,Man Utd,2022-2023,2,1
+1045,25-02-23,Chelsea,Barcelona,2022-2023,1,1
+1046,25-02-23,Juventus,Man Utd,2022-2023,1,2
+1047,25-02-23,FC Bayern,Liverpool,2022-2023,1,2
+1048,25-02-23,Arsenal,R. Madrid,2022-2023,3,0
+1049,15-04-23,Man Utd,Chelsea,2022-2023,1,2
+1050,15-04-23,Barcelona,FC Bayern,2022-2023,1,3
+1051,15-04-23,R. Madrid,Juventus,2022-2023,2,2
+1052,16-04-23,Liverpool,Arsenal,2022-2023,1,2
+1053,29-04-23,Man Utd,R. Madrid,2022-2023,2,1
+1054,29-04-23,Barcelona,Juventus,2022-2023,3,0
+1055,29-04-23,Arsenal,FC Bayern,2022-2023,1,1
+1056,29-04-23,Liverpool,Chelsea,2022-2023,2,1
